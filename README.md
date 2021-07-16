@@ -1,3 +1,5 @@
+https://github.com/tomnomnom/gfdecos
+
 https://github.com/r00tkie/grep-pattern
 
 https://github.com/mrofisr/gf-patterns
@@ -15,3 +17,11 @@ https://github.com/cypher3107/GF-Patterns
 https://github.com/Matir/gf-patterns
 
 https://github.com/Isaac-The-Brave/GF-Patterns-Redux
+
+https://github.com/arthur4ires/gfPatterns
+
+https://github.com/R0X4R/Garud
+
+https://github.com/cypher3107/GF-Patterns
+
+https://github.com/seqrity/Allin1gf
