@@ -27,3 +27,5 @@ https://github.com/cypher3107/GF-Patterns
 https://github.com/seqrity/Allin1gf
 
 https://github.com/Jude-Paul/GF-Patterns-For-Dangerous-PHP-Functions
+
+https://github.com/NitinYadav00/gf-patterns
