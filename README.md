@@ -1,3 +1,8 @@
+gfx will make easier to manage gf patterns its a forked updated version of tomonnom's gf:<br>
+```go install github.com/dwisiswant0/gfx@latest```
+
+`./set-all.sh` will set all the gf patterns from the repo list bellow to your path `"$HOME/.gf"`
+
 https://github.com/tomnomnom/gfdecos
 
 https://github.com/r00tkie/grep-pattern
